@@ -2,19 +2,23 @@
   <div id="app">
     <h1>{{ msg }}</h1>
     <h2>by Cameron Vigil</h2>
-    <ul>
-      <li>{{tartists}}</li>
-      <li>{{ttracks}}</li>
-      <li>{{talbums}}</li>
-    </ul>
+      <div>{{tartists}}</div>
+        <button v-on:click="getArtistData">Artists Data</button>
+      <div>{{artistDataList}}</div>
 
-      <ul></ul>
-      <ul></ul>
+      <div>{{ttracks}}</div>
+        <button v-on:click="getTrackData">Track Data</button>
+      <div>{{trackDataList}}</div>
+
+      <div>{{talbums}}</div>
+        <button v-on:click="getAlbumData">Album Data</button>
+      <div>{{lbumDataList}}</div>
+
   </div>
 </template>
 
 <script>
-import axios from 'axios';
+// import axios from 'axios';
 
 export default {
   name: 'app',
@@ -25,13 +29,26 @@ export default {
       ttracks: 'Top Tracks',
       tartists: 'Top Artists',
       talbums: 'Top Albums',
+      artistDataList: [],
+      albumDataList: [],
+      trackDataList: [],
     };
   },
   methods: {
-    method() {
-      axios.get("/main.py")
-      
-    
+    getArtistData() {
+      fetch('artist.json')
+        .then((response) => response.json())
+        .then((data) => { this.artistDataList = data; });
+    },
+    getAlbumData() {
+      fetch('album.json')
+        .then((response) => response.json())
+        .then((data) => { this.albumDataList = data; });
+    },
+    getTrackData() {
+      fetch('track.json')
+        .then((response) => response.json())
+        .then((data) => { this.trackDataList = data; });
     },
   },
 };
@@ -41,49 +58,44 @@ export default {
 #wrapper{
     width: 650px  ;
     height: auto;
-    background-color: rgb(198, 241, 200);
+    background-color: black;
     margin: 0 auto;
     margin-top: 200px;
     border-radius: 10px;
+    color: white;
 }
 html,
 body{
     margin: 0;
     padding: 0;
-    background-color:rgb(250, 28, 65);
+    color: white;
+    background-color:black;
 }
 #app {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color:cadetblue;
+  color: white;
   margin-top: 40px;
-  background:black;
-  background-color: black;
+  background: black;
 }
 
 h1 {
   font-weight:large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
 }
 
 h2{
   font-weight: normal;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-  color: whitesmoke;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
 }
 
-li {
+button{
   display: inline-block;
+  list-style: none;
   margin: 0 10px;
-}
-
-a {
-  color: #42b983;
+  color: rgb(24, 59, 136);
 }
 </style>
