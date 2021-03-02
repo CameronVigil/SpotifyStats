@@ -1,19 +1,13 @@
 <template>
   <div id="app">
-    <h1>{{ msg }}</h1>
-    <h2>by Cameron Vigil</h2>
-      <div>{{tartists}}</div>
-        <button v-on:click="getArtistData">Artists Data</button>
-      <div>{{artistDataList}}</div>
-
-      <div>{{ttracks}}</div>
-        <button v-on:click="getTrackData">Track Data</button>
-      <div>{{trackDataList}}</div>
-
-      <div>{{talbums}}</div>
-        <button v-on:click="getAlbumData">Album Data</button>
-      <div>{{lbumDataList}}</div>
-
+    <h1>{{ msg }}</h1><span>by Cameron Vigil</span>
+      <h3>{{tartists}}</h3>
+        <h4>Last Month</h4>
+          <span v-for="item in artistDataShort" :key="item.name">{{item.name+ "   "}}</span>
+        <h4>Last 6 Months</h4>
+          <span v-for="item in artistDataMedium" :key="item.name">{{item.name+ "   "}}</span>
+        <h4>Overall</h4>
+          <span v-for="item in artistDataLong" :key="item.name">{{item.name+ "   "}}</span>
   </div>
 </template>
 
@@ -29,16 +23,28 @@ export default {
       ttracks: 'Top Tracks',
       tartists: 'Top Artists',
       talbums: 'Top Albums',
-      artistDataList: [],
+      artistDataShort: [],
+      artistDataMedium: [],
+      artistDataLong: [],
       albumDataList: [],
       trackDataList: [],
     };
   },
   methods: {
-    getArtistData() {
-      fetch('artist.json')
+    getArtistShort() {
+      fetch('artist_short.json')
         .then((response) => response.json())
-        .then((data) => { this.artistDataList = data; });
+        .then((data) => { this.artistDataShort = data; });
+    },
+    getArtistMedium() {
+      fetch('artist_medium.json')
+        .then((response) => response.json())
+        .then((data) => { this.artistDataMedium = data; });
+    },
+    getArtistLong() {
+      fetch('artist_long.json')
+        .then((response) => response.json())
+        .then((data) => { this.artistDataLong = data; });
     },
     getAlbumData() {
       fetch('album.json')
@@ -50,6 +56,11 @@ export default {
         .then((response) => response.json())
         .then((data) => { this.trackDataList = data; });
     },
+  },
+  created() {
+    this.getArtistShort();
+    this.getArtistMedium();
+    this.getArtistLong();
   },
 };
 </script>
@@ -80,18 +91,14 @@ body{
   margin-top: 40px;
   background: black;
 }
-
 h1 {
   font-weight:large;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
   color: white;
 }
-
-h2{
-  font-weight: normal;
-  color: white;
+span {
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
-
 button{
   display: inline-block;
   list-style: none;

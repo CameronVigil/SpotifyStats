@@ -1,0 +1,378 @@
+[
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        "followers": {
+            "href": null,
+            "total": 3630335
+        },
+        "genres": [
+            "downtempo",
+            "dream pop",
+            "indietronica"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+        "id": "3iOvXCl6edW5Um0fXEBRXy",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/922163afa546eca372c27be4513a481de06e9481",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/8ef506656acfc2bc1449b9a963026bd7296df2e2",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/7e7c16105b54b9abcc056d25b3fb549372a8df38",
+                "width": 160
+            }
+        ],
+        "name": "The xx",
+        "popularity": 72,
+        "type": "artist",
+        "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        },
+        "followers": {
+            "href": null,
+            "total": 793809
+        },
+        "genres": [
+            "contemporary country",
+            "country",
+            "country road",
+            "modern country rock",
+            "modern southern rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/39NR3AUhpbbqKM33vWn2fp",
+        "id": "39NR3AUhpbbqKM33vWn2fp",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/70b172cf728f8ca5a9ada474d5952a47eab57d29",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/9aa8e6c23b5765ffc154b481f36b98da4fe3a6a0",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/833b0076a74be4fc122c2cbf263ca66137db1b5f",
+                "width": 160
+            }
+        ],
+        "name": "Brothers Osborne",
+        "popularity": 69,
+        "type": "artist",
+        "uri": "spotify:artist:39NR3AUhpbbqKM33vWn2fp"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        "followers": {
+            "href": null,
+            "total": 802792
+        },
+        "genres": [
+            "indie folk",
+            "indie pop",
+            "stomp and holler"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/8d4ed8d0c5caa942db27f2a6dd382a1e4d8fe620",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/5273017610cf1420e32422bb6bc5d892f0a34b19",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/1e82dfc42cfb349b0d170d4a72bf7de6360a38b7",
+                "width": 160
+            }
+        ],
+        "name": "Lord Huron",
+        "popularity": 76,
+        "type": "artist",
+        "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        "followers": {
+            "href": null,
+            "total": 4499475
+        },
+        "genres": [
+            "irish singer-songwriter",
+            "modern rock",
+            "pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+        "id": "2FXC3k01G6Gw61bmprjgqS",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/2e4114631a20bd71903bc335b88f872afdce9a33",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/4d4be818dc98d47b9086ecff8ec4883902781070",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/c181b6184e82bd7f8411d97b87e4f1daa1bbbbb8",
+                "width": 160
+            }
+        ],
+        "name": "Hozier",
+        "popularity": 83,
+        "type": "artist",
+        "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "followers": {
+            "href": null,
+            "total": 4697351
+        },
+        "genres": [
+            "australian psych",
+            "neo-psychedelic"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/a7cb9fc6df8b68fdb071156add87284c3c941a04",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/135442e5a19db953eb2f48ff39ff8c4c985dc7e1",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/edc87a3af030da0e1d671d20d734528c8d4e880e",
+                "width": 160
+            }
+        ],
+        "name": "Tame Impala",
+        "popularity": 83,
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        "followers": {
+            "href": null,
+            "total": 482156
+        },
+        "genres": [
+            "alternative americana",
+            "indie folk",
+            "kentucky roots",
+            "nashville singer-songwriter",
+            "new americana",
+            "outlaw country"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
+        "id": "3vDpQbGnzRbRVirXlfQagB",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/404240e5fa61e7d5039e10f1a2b9bbbc38b42c55",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/877245820c85abeb2cf916dc4c16fe60f32812c4",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/156b882c006d5b53c5f8d11e9b1f4b688a762c8f",
+                "width": 160
+            }
+        ],
+        "name": "Sturgill Simpson",
+        "popularity": 69,
+        "type": "artist",
+        "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        "followers": {
+            "href": null,
+            "total": 4771995
+        },
+        "genres": [
+            "modern alternative rock",
+            "modern rock",
+            "nu gaze",
+            "pop",
+            "rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+        "id": "3mIj9lX2MWuHmhNCA7LSCW",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/94dd2feca73bdfb7e1c12751b499ec0a46024866",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/05dcebda5c8594a51eeb4b3333572342152b6c38",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251",
+                "width": 160
+            }
+        ],
+        "name": "The 1975",
+        "popularity": 81,
+        "type": "artist",
+        "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "followers": {
+            "href": null,
+            "total": 29523832
+        },
+        "genres": [
+            "canadian contemporary r&b",
+            "canadian pop",
+            "pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/37376dba0623c33923eae9d234e5e199b76d227f",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/bf5643a4223bb6483f5b0b981bce1cf7b5f92f84",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/8a188b7236f3c78416a3f75c9da52957ed3bcb9b",
+                "width": 160
+            }
+        ],
+        "name": "The Weeknd",
+        "popularity": 98,
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        },
+        "followers": {
+            "href": null,
+            "total": 615082
+        },
+        "genres": [
+            "australian indie",
+            "australian psych",
+            "double drumming",
+            "neo-psychedelic"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6XYvaoDGE0VmRt83Jss9Sn",
+        "id": "6XYvaoDGE0VmRt83Jss9Sn",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/4ef78eaae0e25d64d241471c385960980fca189e",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/6785dd210fc89f6ea3a171cb543aa6681b982169",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/a5291d52ce3bc1cd989c3431f315ec778a93a99d",
+                "width": 160
+            }
+        ],
+        "name": "King Gizzard & The Lizard Wizard",
+        "popularity": 70,
+        "type": "artist",
+        "uri": "spotify:artist:6XYvaoDGE0VmRt83Jss9Sn"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        "followers": {
+            "href": null,
+            "total": 150883
+        },
+        "genres": [
+            "alternative country",
+            "queer country"
+        ],
+        "href": "https://api.spotify.com/v1/artists/46auOkH1pk28rWrSoUNhLo",
+        "id": "46auOkH1pk28rWrSoUNhLo",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/bb2055b78f4eec9b5e19cb9e9792395b71a4564b",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/bf98b5ba59b236e789c2f5a48b21e681c534dab6",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/62181378a430fe844b804f0fbb3c8a4fcfcad0c8",
+                "width": 160
+            }
+        ],
+        "name": "Orville Peck",
+        "popularity": 57,
+        "type": "artist",
+        "uri": "spotify:artist:46auOkH1pk28rWrSoUNhLo"
+    }
+]

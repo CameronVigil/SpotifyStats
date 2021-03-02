@@ -4,8 +4,10 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "app": "python3 ../client/src/app.py",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "start": "(npm run app && npm run serve)"
   },
   "dependencies": {
     "axios": "^0.21.1",

@@ -1,5 +1,5 @@
-from flask import Flask, jsonify
-from flask_cors import CORS
+#from flask import Flask, jsonify
+#from flask_cors import CORS
 import os
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
