@@ -6,8 +6,7 @@ npm install
 cd env
 python3 -m venv env
 source env/bin/source
-python3 app.py
 cd client
-npm run serve
+npm run start
 
 ```
