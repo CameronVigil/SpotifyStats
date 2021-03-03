@@ -7,28 +7,54 @@
         <span>by Cameron Vigil</span>
       </b-col>
       <b-col cols="9">
-      <h2>{{tartists}}</h2>
+      <h2 class="title">Top Artists</h2>
         <h3>Last Month</h3>
-          <span v-for="item in artistDataShort" :key="item.name">
-            <span class="container">
+          <span class="container" v-for="item in artistDataShort" :key="item.name">
               <img :src="item.images[0].url" height="300px" width="300px">
               <div class="bottom-left">{{item.name}}</div>
-            </span>
           </span>
         <h3>Last 6 Months</h3>
-          <span v-for="item in artistDataMedium" :key="item.name">
-            <span class="container">
+          <span class="container" v-for="item in artistDataMedium" :key="item.name">
               <img :src="item.images[0].url" height="300px" width="300px">
               <div class="bottom-left">{{item.name}}</div>
-            </span>
           </span>
         <h3>Overall</h3>
-          <span v-for="item in artistDataLong" :key="item.name">
-            <span class="container">
+          <span class="container" v-for="item in artistDataLong" :key="item.name">
               <img :src="item.images[0].url" height="300px" width="300px">
               <div class="bottom-left">{{item.name}}</div>
-            </span>
           </span>
+      <h2>Top Tracks</h2>
+        <h3>Last 6 Months</h3>
+          <span class="container" v-for="item in trackDataShort" :key="item.name">
+                <img :src="item.album.images[0].url" height="300px" width="300px">
+                <div class="bottom-left-track">
+                  {{item.name}}
+                </div>
+                <div class="bottom-left-album">
+                  {{item.album.artists[0].name}}
+                </div>
+            </span>
+        <h3>Last 6 Months</h3>
+          <span class="container" v-for="item in trackDataMedium" :key="item.name">
+            <img :src="item.album.images[0].url" height="300px" width="300px">
+            <div class="bottom-left-track">
+              {{item.name}}
+            </div>
+            <div class="bottom-left-album">
+              {{item.album.artists[0].name}}
+            </div>
+          </span>
+        <h3>Overall</h3>
+          <span class="container" v-for="item in trackDataLong" :key="item.name">
+            <img :src="item.album.images[0].url" height="300px" width="300px">
+            <div class="bottom-left-track">
+              {{item.name}}
+            </div>
+            <div class="bottom-left-album">
+              {{item.album.artists[0].name}}
+            </div>
+          </span>
+      <h2>Top Albums</h2>
       </b-col >
     </b-row>
   </b-container>
@@ -109,6 +135,9 @@ export default {
     this.getArtistShort();
     this.getArtistMedium();
     this.getArtistLong();
+    this.getTrackShort();
+    this.getTrackMedium();
+    this.getTrackLong();
   },
 };
 </script>
@@ -131,7 +160,7 @@ body{
     background-color:black;
 }
 #app {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Varela';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -141,16 +170,19 @@ body{
 }
 h1 {
   font-weight:large;
-  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Varela';
   color: white;
 }
+
 h3 {
   margin-top: 40px;
   margin-bottom: 40px;
   background: rgb(45, 151, 45);
+  font-size: large;
 }
 span {
-  font-family:Verdana, Geneva, Tahoma, sans-serif
+  font-family: 'Varela';
+  padding: 0pt;
 }
 button{
   display: inline-block;
@@ -169,8 +201,13 @@ my-span{
   text-align: center;
   color: white;
   font-size: large;
+  margin-left: 0;
 }
-
+.title{
+  padding: 20px;
+  background: rgb(145, 44, 158);
+  background-repeat: no-repeat;
+}
 /* Bottom left text */
 .bottom-left {
   position: absolute;
@@ -180,7 +217,22 @@ my-span{
   font-style: bold;
   font-size: larger;
 }
-
+.bottom-left-track {
+  position: absolute;
+  bottom: -120px;
+  left: 16px;
+  font-family: 'Varela';
+  font-style: bold;
+  font-size: medium;
+}
+.bottom-left-album {
+  position: absolute;
+  bottom: -140px;
+  left: 16px;
+  font-family: 'Varela';
+  font-style: bold;
+  font-size: medium;
+}
 /* Top left text */
 .top-left {
   position: absolute;
