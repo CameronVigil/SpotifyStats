@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 3630335
+            "total": 3632534
         },
         "genres": [
             "downtempo",
@@ -42,7 +42,7 @@
         },
         "followers": {
             "href": null,
-            "total": 793809
+            "total": 794658
         },
         "genres": [
             "contemporary country",
@@ -81,7 +81,7 @@
         },
         "followers": {
             "href": null,
-            "total": 802792
+            "total": 803971
         },
         "genres": [
             "indie folk",
@@ -118,7 +118,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4499475
+            "total": 4504553
         },
         "genres": [
             "irish singer-songwriter",
@@ -151,39 +151,41 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+            "spotify": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         },
         "followers": {
             "href": null,
-            "total": 4697351
+            "total": 616497
         },
         "genres": [
+            "australian indie",
             "australian psych",
+            "double drumming",
             "neo-psychedelic"
         ],
-        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "href": "https://api.spotify.com/v1/artists/6XYvaoDGE0VmRt83Jss9Sn",
+        "id": "6XYvaoDGE0VmRt83Jss9Sn",
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/a7cb9fc6df8b68fdb071156add87284c3c941a04",
+                "url": "https://i.scdn.co/image/4ef78eaae0e25d64d241471c385960980fca189e",
                 "width": 640
             },
             {
                 "height": 320,
-                "url": "https://i.scdn.co/image/135442e5a19db953eb2f48ff39ff8c4c985dc7e1",
+                "url": "https://i.scdn.co/image/6785dd210fc89f6ea3a171cb543aa6681b982169",
                 "width": 320
             },
             {
                 "height": 160,
-                "url": "https://i.scdn.co/image/edc87a3af030da0e1d671d20d734528c8d4e880e",
+                "url": "https://i.scdn.co/image/a5291d52ce3bc1cd989c3431f315ec778a93a99d",
                 "width": 160
             }
         ],
-        "name": "Tame Impala",
-        "popularity": 83,
+        "name": "King Gizzard & The Lizard Wizard",
+        "popularity": 70,
         "type": "artist",
-        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        "uri": "spotify:artist:6XYvaoDGE0VmRt83Jss9Sn"
     },
     {
         "external_urls": {
@@ -191,7 +193,7 @@
         },
         "followers": {
             "href": null,
-            "total": 482156
+            "total": 482679
         },
         "genres": [
             "alternative americana",
@@ -227,11 +229,47 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "followers": {
+            "href": null,
+            "total": 4704842
+        },
+        "genres": [
+            "australian psych",
+            "neo-psychedelic"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/a7cb9fc6df8b68fdb071156add87284c3c941a04",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/135442e5a19db953eb2f48ff39ff8c4c985dc7e1",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/edc87a3af030da0e1d671d20d734528c8d4e880e",
+                "width": 160
+            }
+        ],
+        "name": "Tame Impala",
+        "popularity": 83,
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         },
         "followers": {
             "href": null,
-            "total": 4771995
+            "total": 4776346
         },
         "genres": [
             "modern alternative rock",
@@ -270,7 +308,7 @@
         },
         "followers": {
             "href": null,
-            "total": 29523832
+            "total": 29610820
         },
         "genres": [
             "canadian contemporary r&b",
@@ -303,49 +341,11 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        },
-        "followers": {
-            "href": null,
-            "total": 615082
-        },
-        "genres": [
-            "australian indie",
-            "australian psych",
-            "double drumming",
-            "neo-psychedelic"
-        ],
-        "href": "https://api.spotify.com/v1/artists/6XYvaoDGE0VmRt83Jss9Sn",
-        "id": "6XYvaoDGE0VmRt83Jss9Sn",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/4ef78eaae0e25d64d241471c385960980fca189e",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/6785dd210fc89f6ea3a171cb543aa6681b982169",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/a5291d52ce3bc1cd989c3431f315ec778a93a99d",
-                "width": 160
-            }
-        ],
-        "name": "King Gizzard & The Lizard Wizard",
-        "popularity": 70,
-        "type": "artist",
-        "uri": "spotify:artist:6XYvaoDGE0VmRt83Jss9Sn"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         },
         "followers": {
             "href": null,
-            "total": 150883
+            "total": 151058
         },
         "genres": [
             "alternative country",
@@ -374,5 +374,77 @@
         "popularity": 57,
         "type": "artist",
         "uri": "spotify:artist:46auOkH1pk28rWrSoUNhLo"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "followers": {
+            "href": null,
+            "total": 58869507
+        },
+        "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/f8c793519d837ca2f920c561535fe62ef32e8e5b",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/610f278171ed793b0d6c771f2877e5d4fd533d38",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/03345cd15fe15956bbc204131ac1b45991b99bb6",
+                "width": 160
+            }
+        ],
+        "name": "Ariana Grande",
+        "popularity": 98,
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        "followers": {
+            "href": null,
+            "total": 1130879
+        },
+        "genres": [
+            "uk pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
+        "id": "0Vw76uk7P8yVtTClWyOhac",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/67f383563a69822108155fd0b80b8b0a12f0869f",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/1dcad851159ec455f6390879b437435934bcb557",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/8b9e5d9441a0208eca61b6a1f7fba5e390dd835d",
+                "width": 160
+            }
+        ],
+        "name": "HONNE",
+        "popularity": 72,
+        "type": "artist",
+        "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
     }
 ]

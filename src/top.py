@@ -5,7 +5,7 @@ def get_top_artists(sp):
     ranges = ['short_term', 'medium_term', 'long_term']
     results = []
     for sp_range in ranges: # all-time, last 6 months , last month
-        result = sp.current_user_top_artists(time_range=sp_range, limit=10)
+        result = sp.current_user_top_artists(time_range=sp_range, limit=12)
         results.append(result['items'])
 
     #writes JSON data to respective JSON files for each time length

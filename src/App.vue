@@ -1,13 +1,37 @@
 <template>
   <div id="app">
-    <h1>{{ msg }}</h1><span>by Cameron Vigil</span>
-      <h3>{{tartists}}</h3>
-        <h4>Last Month</h4>
-          <span v-for="item in artistDataShort" :key="item.name">{{item.name+ "   "}}</span>
-        <h4>Last 6 Months</h4>
-          <span v-for="item in artistDataMedium" :key="item.name">{{item.name+ "   "}}</span>
-        <h4>Overall</h4>
-          <span v-for="item in artistDataLong" :key="item.name">{{item.name+ "   "}}</span>
+  <b-container fluid>
+    <b-row>
+      <b-col>
+        <h1>Spotify Stats</h1>
+        <span>by Cameron Vigil</span>
+      </b-col>
+      <b-col cols="9">
+      <h2>{{tartists}}</h2>
+        <h3>Last Month</h3>
+          <span v-for="item in artistDataShort" :key="item.name">
+            <span class="container">
+              <img :src="item.images[0].url" height="300px" width="300px">
+              <div class="bottom-left">{{item.name}}</div>
+            </span>
+          </span>
+        <h3>Last 6 Months</h3>
+          <span v-for="item in artistDataMedium" :key="item.name">
+            <span class="container">
+              <img :src="item.images[0].url" height="300px" width="300px">
+              <div class="bottom-left">{{item.name}}</div>
+            </span>
+          </span>
+        <h3>Overall</h3>
+          <span v-for="item in artistDataLong" :key="item.name">
+            <span class="container">
+              <img :src="item.images[0].url" height="300px" width="300px">
+              <div class="bottom-left">{{item.name}}</div>
+            </span>
+          </span>
+      </b-col >
+    </b-row>
+  </b-container>
   </div>
 </template>
 
@@ -26,8 +50,12 @@ export default {
       artistDataShort: [],
       artistDataMedium: [],
       artistDataLong: [],
-      albumDataList: [],
-      trackDataList: [],
+      albumDataShort: [],
+      albumDataMedium: [],
+      albumDataLong: [],
+      trackDataShort: [],
+      trackDataMedium: [],
+      trackDataLong: [],
     };
   },
   methods: {
@@ -46,15 +74,35 @@ export default {
         .then((response) => response.json())
         .then((data) => { this.artistDataLong = data; });
     },
-    getAlbumData() {
-      fetch('album.json')
+    getAlbumShort() {
+      fetch('album_short.json')
         .then((response) => response.json())
-        .then((data) => { this.albumDataList = data; });
+        .then((data) => { this.albumDataShort = data; });
     },
-    getTrackData() {
-      fetch('track.json')
+    getAlbumMedium() {
+      fetch('album_medium.json')
         .then((response) => response.json())
-        .then((data) => { this.trackDataList = data; });
+        .then((data) => { this.albumDataMedium = data; });
+    },
+    getAlbumLong() {
+      fetch('album_long.json')
+        .then((response) => response.json())
+        .then((data) => { this.albumDataLong = data; });
+    },
+    getTrackShort() {
+      fetch('track_short.json')
+        .then((response) => response.json())
+        .then((data) => { this.trackDataShort = data; });
+    },
+    getTrackMedium() {
+      fetch('track_medium.json')
+        .then((response) => response.json())
+        .then((data) => { this.trackDataMedium = data; });
+    },
+    getTrackLong() {
+      fetch('track_long.json')
+        .then((response) => response.json())
+        .then((data) => { this.trackDataLong = data; });
     },
   },
   created() {
@@ -96,6 +144,11 @@ h1 {
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
   color: white;
 }
+h3 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background: rgb(45, 151, 45);
+}
 span {
   font-family:Verdana, Geneva, Tahoma, sans-serif
 }
@@ -105,4 +158,66 @@ button{
   margin: 0 10px;
   color: rgb(24, 59, 136);
 }
+my-span{
+  color:white;
+  font-weight: bold;
+  float: left;
+}
+/* Container holding the image and the text */
+.container{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: large;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: -140px;
+  left: 16px;
+  font-family: 'Varela';
+  font-style: bold;
+  font-size: larger;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@font-face {
+  font-family: "BebasKai";
+  src: local("BebasKai"),   url(fonts/bebas-kai/BebasKai.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Varela";
+  src: local("Varela"), url(fonts/varela/varela.regular.ttf) format("truetype");
+}
+
 </style>
