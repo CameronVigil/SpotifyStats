@@ -7,8 +7,8 @@
     "app": "python3 ../client/src/app.py",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "node Scripts/gh-pages-deploy.js",
-    "start": "(npm run app && npm run serve && npm run deploy)"    
+    "start": "(npm run app && npm run serve)",
+    "deploy": "node Scripts/gh-pages-deploy.js"       
   },
   "dependencies": {
     "axios": "^0.21.1",
