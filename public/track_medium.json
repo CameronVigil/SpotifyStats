@@ -242,243 +242,6 @@
             "artists": [
                 {
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-                    },
-                    "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-                    "id": "5INjqkS1o8h1imAzPqGZBb",
-                    "name": "Tame Impala",
-                    "type": "artist",
-                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
-                }
-            ],
-            "available_markets": [
-                "AD",
-                "AE",
-                "AR",
-                "AT",
-                "AU",
-                "BE",
-                "BG",
-                "BH",
-                "BO",
-                "BR",
-                "CA",
-                "CH",
-                "CL",
-                "CO",
-                "CR",
-                "CY",
-                "CZ",
-                "DE",
-                "DK",
-                "DO",
-                "DZ",
-                "EC",
-                "EE",
-                "EG",
-                "ES",
-                "FI",
-                "FR",
-                "GB",
-                "GR",
-                "GT",
-                "HK",
-                "HN",
-                "HU",
-                "ID",
-                "IE",
-                "IL",
-                "IN",
-                "IS",
-                "IT",
-                "JO",
-                "JP",
-                "KW",
-                "LB",
-                "LI",
-                "LT",
-                "LU",
-                "LV",
-                "MA",
-                "MC",
-                "MT",
-                "MX",
-                "MY",
-                "NI",
-                "NL",
-                "NO",
-                "NZ",
-                "OM",
-                "PA",
-                "PE",
-                "PH",
-                "PL",
-                "PS",
-                "PT",
-                "PY",
-                "QA",
-                "RO",
-                "SA",
-                "SE",
-                "SG",
-                "SK",
-                "SV",
-                "TH",
-                "TN",
-                "TR",
-                "TW",
-                "US",
-                "UY",
-                "VN",
-                "ZA"
-            ],
-            "external_urls": {
-                "spotify": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-            },
-            "href": "https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL",
-            "id": "31qVWUdRrlb8thMvts0yYL",
-            "images": [
-                {
-                    "height": 640,
-                    "url": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
-                    "width": 640
-                },
-                {
-                    "height": 300,
-                    "url": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
-                    "width": 300
-                },
-                {
-                    "height": 64,
-                    "url": "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
-                    "width": 64
-                }
-            ],
-            "name": "The Slow Rush",
-            "release_date": "2020-02-14",
-            "release_date_precision": "day",
-            "total_tracks": 12,
-            "type": "album",
-            "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL"
-        },
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-                },
-                "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-                "id": "5INjqkS1o8h1imAzPqGZBb",
-                "name": "Tame Impala",
-                "type": "artist",
-                "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
-            }
-        ],
-        "available_markets": [
-            "AD",
-            "AE",
-            "AR",
-            "AT",
-            "AU",
-            "BE",
-            "BG",
-            "BH",
-            "BO",
-            "BR",
-            "CA",
-            "CH",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DE",
-            "DK",
-            "DO",
-            "DZ",
-            "EC",
-            "EE",
-            "EG",
-            "ES",
-            "FI",
-            "FR",
-            "GB",
-            "GR",
-            "GT",
-            "HK",
-            "HN",
-            "HU",
-            "ID",
-            "IE",
-            "IL",
-            "IN",
-            "IS",
-            "IT",
-            "JO",
-            "JP",
-            "KW",
-            "LB",
-            "LI",
-            "LT",
-            "LU",
-            "LV",
-            "MA",
-            "MC",
-            "MT",
-            "MX",
-            "MY",
-            "NI",
-            "NL",
-            "NO",
-            "NZ",
-            "OM",
-            "PA",
-            "PE",
-            "PH",
-            "PL",
-            "PS",
-            "PT",
-            "PY",
-            "QA",
-            "RO",
-            "SA",
-            "SE",
-            "SG",
-            "SK",
-            "SV",
-            "TH",
-            "TN",
-            "TR",
-            "TW",
-            "US",
-            "UY",
-            "VN",
-            "ZA"
-        ],
-        "disc_number": 1,
-        "duration_ms": 249586,
-        "explicit": false,
-        "external_ids": {
-            "isrc": "AUUM71900932"
-        },
-        "external_urls": {
-            "spotify": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5JWPUEov2wlX7c0jhYZpeB",
-        "id": "5JWPUEov2wlX7c0jhYZpeB",
-        "is_local": false,
-        "name": "Lost In Yesterday",
-        "popularity": 71,
-        "preview_url": "https://p.scdn.co/mp3-preview/79ae58907e563abfd151d91a4b8d11e00911459b?cid=70501fc412a34877a1becc7cf260d1f7",
-        "track_number": 8,
-        "type": "track",
-        "uri": "spotify:track:5JWPUEov2wlX7c0jhYZpeB"
-    },
-    {
-        "album": {
-            "album_type": "ALBUM",
-            "artists": [
-                {
-                    "external_urls": {
                         "spotify": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
                     },
                     "href": "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
@@ -709,6 +472,243 @@
         "track_number": 9,
         "type": "track",
         "uri": "spotify:track:60ynsPSSKe6O3sfwRnIBRf"
+    },
+    {
+        "album": {
+            "album_type": "ALBUM",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+                    "id": "5INjqkS1o8h1imAzPqGZBb",
+                    "name": "Tame Impala",
+                    "type": "artist",
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IS",
+                "IT",
+                "JO",
+                "JP",
+                "KW",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "SA",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "US",
+                "UY",
+                "VN",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+            },
+            "href": "https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL",
+            "id": "31qVWUdRrlb8thMvts0yYL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
+                    "width": 64
+                }
+            ],
+            "name": "The Slow Rush",
+            "release_date": "2020-02-14",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+                },
+                "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+                "id": "5INjqkS1o8h1imAzPqGZBb",
+                "name": "Tame Impala",
+                "type": "artist",
+                "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BH",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IS",
+            "IT",
+            "JO",
+            "JP",
+            "KW",
+            "LB",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MA",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PS",
+            "PT",
+            "PY",
+            "QA",
+            "RO",
+            "SA",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 249586,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "AUUM71900932"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JWPUEov2wlX7c0jhYZpeB",
+        "id": "5JWPUEov2wlX7c0jhYZpeB",
+        "is_local": false,
+        "name": "Lost In Yesterday",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/79ae58907e563abfd151d91a4b8d11e00911459b?cid=70501fc412a34877a1becc7cf260d1f7",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5JWPUEov2wlX7c0jhYZpeB"
     },
     {
         "album": {
@@ -1889,7 +1889,7 @@
         "id": "7cELheBXF3jIShGuewCy44",
         "is_local": false,
         "name": "fuckboy",
-        "popularity": 59,
+        "popularity": 60,
         "preview_url": "https://p.scdn.co/mp3-preview/a7fc6e661c50a2f298b3522f2654a87e917c5f40?cid=70501fc412a34877a1becc7cf260d1f7",
         "track_number": 4,
         "type": "track",
@@ -2126,7 +2126,7 @@
         "id": "0VrQ3dAV7vefMJYb56q0M3",
         "is_local": false,
         "name": "Mississippi",
-        "popularity": 44,
+        "popularity": 45,
         "preview_url": "https://p.scdn.co/mp3-preview/a899ecaf26ba81788a1816781c59443c99bdb53f?cid=70501fc412a34877a1becc7cf260d1f7",
         "track_number": 6,
         "type": "track",
@@ -2612,13 +2612,13 @@
             "artists": [
                 {
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+                        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
                     },
-                    "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
-                    "id": "3vDpQbGnzRbRVirXlfQagB",
-                    "name": "Sturgill Simpson",
+                    "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+                    "id": "5INjqkS1o8h1imAzPqGZBb",
+                    "name": "Tame Impala",
                     "type": "artist",
-                    "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB"
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
                 }
             ],
             "available_markets": [
@@ -2626,6 +2626,7 @@
                 "AE",
                 "AR",
                 "AT",
+                "AU",
                 "BE",
                 "BG",
                 "BH",
@@ -2676,6 +2677,7 @@
                 "NI",
                 "NL",
                 "NO",
+                "NZ",
                 "OM",
                 "PA",
                 "PE",
@@ -2701,44 +2703,44 @@
                 "ZA"
             ],
             "external_urls": {
-                "spotify": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+                "spotify": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
             },
-            "href": "https://api.spotify.com/v1/albums/3N51Ixwph25awFqhoACG0U",
-            "id": "3N51Ixwph25awFqhoACG0U",
+            "href": "https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL",
+            "id": "31qVWUdRrlb8thMvts0yYL",
             "images": [
                 {
                     "height": 640,
-                    "url": "https://i.scdn.co/image/ab67616d0000b2733eeaad8a9bc30d54fe32b10f",
+                    "url": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
                     "width": 640
                 },
                 {
                     "height": 300,
-                    "url": "https://i.scdn.co/image/ab67616d00001e023eeaad8a9bc30d54fe32b10f",
+                    "url": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
                     "width": 300
                 },
                 {
                     "height": 64,
-                    "url": "https://i.scdn.co/image/ab67616d000048513eeaad8a9bc30d54fe32b10f",
+                    "url": "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
                     "width": 64
                 }
             ],
-            "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-            "release_date": "2020-12-11",
+            "name": "The Slow Rush",
+            "release_date": "2020-02-14",
             "release_date_precision": "day",
             "total_tracks": 12,
             "type": "album",
-            "uri": "spotify:album:3N51Ixwph25awFqhoACG0U"
+            "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL"
         },
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+                    "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
                 },
-                "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
-                "id": "3vDpQbGnzRbRVirXlfQagB",
-                "name": "Sturgill Simpson",
+                "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+                "id": "5INjqkS1o8h1imAzPqGZBb",
+                "name": "Tame Impala",
                 "type": "artist",
-                "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB"
+                "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
             }
         ],
         "available_markets": [
@@ -2746,6 +2748,7 @@
             "AE",
             "AR",
             "AT",
+            "AU",
             "BE",
             "BG",
             "BH",
@@ -2796,6 +2799,7 @@
             "NI",
             "NL",
             "NO",
+            "NZ",
             "OM",
             "PA",
             "PE",
@@ -2821,22 +2825,22 @@
             "ZA"
         ],
         "disc_number": 1,
-        "duration_ms": 258217,
+        "duration_ms": 326840,
         "explicit": false,
         "external_ids": {
-            "isrc": "QMFME2069303"
+            "isrc": "AUUM71900930"
         },
         "external_urls": {
-            "spotify": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+            "spotify": "https://open.spotify.com/track/666PdikRnUzdvjT9p5wWND"
         },
-        "href": "https://api.spotify.com/v1/tracks/3iLjUZBNEWxGn5HQDpmMXo",
-        "id": "3iLjUZBNEWxGn5HQDpmMXo",
+        "href": "https://api.spotify.com/v1/tracks/666PdikRnUzdvjT9p5wWND",
+        "id": "666PdikRnUzdvjT9p5wWND",
         "is_local": false,
-        "name": "Brace for Impact (Live a Little)",
-        "popularity": 49,
-        "preview_url": "https://p.scdn.co/mp3-preview/8e9022234515ae745a89e0567e784eb22b3062c1?cid=70501fc412a34877a1becc7cf260d1f7",
-        "track_number": 2,
+        "name": "Tomorrow's Dust",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/51cb9324908f620a04513107fc69cf10366b5693?cid=70501fc412a34877a1becc7cf260d1f7",
+        "track_number": 6,
         "type": "track",
-        "uri": "spotify:track:3iLjUZBNEWxGn5HQDpmMXo"
+        "uri": "spotify:track:666PdikRnUzdvjT9p5wWND"
     }
 ]

@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4704842
+            "total": 4715577
         },
         "genres": [
             "australian psych",
@@ -31,7 +31,7 @@
             }
         ],
         "name": "Tame Impala",
-        "popularity": 83,
+        "popularity": 84,
         "type": "artist",
         "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
@@ -41,7 +41,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4776346
+            "total": 4782744
         },
         "genres": [
             "modern alternative rock",
@@ -80,7 +80,7 @@
         },
         "followers": {
             "href": null,
-            "total": 616497
+            "total": 618060
         },
         "genres": [
             "australian indie",
@@ -114,51 +114,11 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        "followers": {
-            "href": null,
-            "total": 482679
-        },
-        "genres": [
-            "alternative americana",
-            "indie folk",
-            "kentucky roots",
-            "nashville singer-songwriter",
-            "new americana",
-            "outlaw country"
-        ],
-        "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
-        "id": "3vDpQbGnzRbRVirXlfQagB",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/404240e5fa61e7d5039e10f1a2b9bbbc38b42c55",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/877245820c85abeb2cf916dc4c16fe60f32812c4",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/156b882c006d5b53c5f8d11e9b1f4b688a762c8f",
-                "width": 160
-            }
-        ],
-        "name": "Sturgill Simpson",
-        "popularity": 69,
-        "type": "artist",
-        "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         },
         "followers": {
             "href": null,
-            "total": 5594519
+            "total": 5616052
         },
         "genres": [
             "modern alternative rock",
@@ -191,11 +151,52 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        "followers": {
+            "href": null,
+            "total": 483521
+        },
+        "genres": [
+            "alternative americana",
+            "indie folk",
+            "kentucky roots",
+            "nashville singer-songwriter",
+            "new americana",
+            "outlaw country",
+            "roots rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
+        "id": "3vDpQbGnzRbRVirXlfQagB",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/404240e5fa61e7d5039e10f1a2b9bbbc38b42c55",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/877245820c85abeb2cf916dc4c16fe60f32812c4",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/156b882c006d5b53c5f8d11e9b1f4b688a762c8f",
+                "width": 160
+            }
+        ],
+        "name": "Sturgill Simpson",
+        "popularity": 69,
+        "type": "artist",
+        "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         },
         "followers": {
             "href": null,
-            "total": 70325
+            "total": 70736
         },
         "genres": [
             "emo rap",
@@ -221,7 +222,7 @@
             }
         ],
         "name": "brakence",
-        "popularity": 63,
+        "popularity": 64,
         "type": "artist",
         "uri": "spotify:artist:4kqFrZkeqDfOIEqTWqbOOV"
     },
@@ -231,10 +232,9 @@
         },
         "followers": {
             "href": null,
-            "total": 37452
+            "total": 37495
         },
         "genres": [
-            "contemporary country",
             "new americana"
         ],
         "href": "https://api.spotify.com/v1/artists/5zuqnTZOeJzI0N0yQ7XA7I",
@@ -267,7 +267,7 @@
         },
         "followers": {
             "href": null,
-            "total": 58869507
+            "total": 59051861
         },
         "genres": [
             "dance pop",
@@ -304,7 +304,7 @@
         },
         "followers": {
             "href": null,
-            "total": 5427545
+            "total": 5437244
         },
         "genres": [
             "australian pop",
@@ -345,7 +345,7 @@
         },
         "followers": {
             "href": null,
-            "total": 3632534
+            "total": 3634594
         },
         "genres": [
             "downtempo",
@@ -382,7 +382,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1547246
+            "total": 1554163
         },
         "genres": [
             "gauze pop",
@@ -419,7 +419,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1485015
+            "total": 1498953
         },
         "genres": [
             "contemporary country",

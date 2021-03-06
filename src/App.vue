@@ -2,12 +2,15 @@
   <div id="app">
   <b-container fluid>
     <b-row>
-      <b-col>
+      <b-col class="col-3 px-2 column1 position-fixed">
         <h1>Spotify Stats</h1>
         <span>by Cameron Vigil</span>
+        <div>
+          <button  class="button" @click="scrollT">{{ TopTracks }}</button>
+        </div>
       </b-col>
-      <b-col cols="9">
-      <h2 class="title">Top Artists</h2>
+      <b-col cols="9" class="col offset-3 black-background">
+      <h2 id="Top-Artists">Top Artists</h2>
         <h3>Last Month</h3>
           <span class="container" v-for="item in artistDataShort" :key="item.name">
               <img :src="item.images[0].url" height="300px" width="300px">
@@ -23,7 +26,7 @@
               <img :src="item.images[0].url" height="300px" width="300px">
               <div class="bottom-left">{{item.name}}</div>
           </span>
-      <h2>Top Tracks</h2>
+      <h2 id="Top-Tracks">Top Tracks</h2>
         <h3>Last 6 Months</h3>
           <span class="container" v-for="item in trackDataShort" :key="item.name">
                 <img :src="item.album.images[0].url" height="300px" width="300px">
@@ -54,20 +57,19 @@
               {{item.album.artists[0].name}}
             </div>
           </span>
-      <h2>Top Albums</h2>
       </b-col >
     </b-row>
   </b-container>
   </div>
 </template>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.js"></script>
 <script>
-// import axios from 'axios';
-
 export default {
   name: 'app',
   data() {
     return {
+      TopTracks: 'Top Tracks',
       msg: 'Spotify Stats',
       title: 'Spotify Stats',
       ttracks: 'Top Tracks',
@@ -85,6 +87,10 @@ export default {
     };
   },
   methods: {
+    scrollT() {
+      const element = document.getElementById('Top-Tracks');
+      element.scrollIntoView({ behavior: 'smooth' });
+    },
     getArtistShort() {
       fetch('artist_short.json')
         .then((response) => response.json())
@@ -130,6 +136,10 @@ export default {
         .then((response) => response.json())
         .then((data) => { this.trackDataLong = data; });
     },
+    scroll() {
+      const element = document.getElementById('Top-Artists');
+      element.scrollIntoView({ behavior: 'smooth' });
+    },
   },
   created() {
     this.getArtistShort();
@@ -146,9 +156,8 @@ export default {
 #wrapper{
     width: 650px  ;
     height: auto;
-    background-color: black;
     margin: 0 auto;
-    margin-top: 200px;
+    margin-top: 100px;
     border-radius: 10px;
     color: white;
 }
@@ -156,8 +165,6 @@ html,
 body{
     margin: 0;
     padding: 0;
-    color: white;
-    background-color:black;
 }
 #app {
   font-family: 'Varela';
@@ -165,19 +172,23 @@ body{
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: white;
-  margin-top: 40px;
-  background: black;
+  background: rgb(45, 187, 45);
 }
 h1 {
+  margin-top: 40px;
   font-weight:large;
   font-family: 'Varela';
   color: white;
 }
-
-h3 {
+h2 {
+  font-family: 'Varela';
   margin-top: 40px;
   margin-bottom: 40px;
-  background: rgb(45, 151, 45);
+}
+h3 {
+  font-family: 'Varela';
+  margin-top: 40px;
+  margin-bottom: 40px;
   font-size: large;
 }
 span {
@@ -186,27 +197,38 @@ span {
 }
 button{
   display: inline-block;
+  position: relative;
+  text-align: center;
   list-style: none;
-  margin: 0 10px;
-  color: rgb(24, 59, 136);
+  width: 377px;
+  height: 40px;
+  color: white;
+  font-size: larger;
+  font-family: 'Varela';
+  background: transparent;
+  border: none;
+  max-width: fit-content;
 }
-my-span{
-  color:white;
-  font-weight: bold;
-  float: left;
-}
+
 /* Container holding the image and the text */
 .container{
   position: relative;
   text-align: center;
   color: white;
   font-size: large;
+  font-family: 'Varela';
   margin-left: 0;
 }
-.title{
-  padding: 20px;
-  background: rgb(145, 44, 158);
-  background-repeat: no-repeat;
+
+img {
+  mask-image: linear-gradient(to top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%);
+  -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,.5) 0%,rgba(0,0,0,.99) 20%);
+}
+.black-background{
+  background: black;
+}
+.column1{
+  column-fill: auto;
 }
 /* Bottom left text */
 .bottom-left {
@@ -239,21 +261,6 @@ my-span{
   top: 8px;
   left: 16px;
 }
-
-/* Top right text */
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
 /* Centered text */
 .centered {
   position: absolute;

@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4776346
+            "total": 4782744
         },
         "genres": [
             "modern alternative rock",
@@ -44,7 +44,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4704842
+            "total": 4715577
         },
         "genres": [
             "australian psych",
@@ -70,7 +70,7 @@
             }
         ],
         "name": "Tame Impala",
-        "popularity": 83,
+        "popularity": 84,
         "type": "artist",
         "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
@@ -80,7 +80,7 @@
         },
         "followers": {
             "href": null,
-            "total": 616497
+            "total": 618060
         },
         "genres": [
             "australian indie",
@@ -118,7 +118,7 @@
         },
         "followers": {
             "href": null,
-            "total": 482679
+            "total": 483521
         },
         "genres": [
             "alternative americana",
@@ -126,7 +126,8 @@
             "kentucky roots",
             "nashville singer-songwriter",
             "new americana",
-            "outlaw country"
+            "outlaw country",
+            "roots rock"
         ],
         "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
         "id": "3vDpQbGnzRbRVirXlfQagB",
@@ -158,7 +159,7 @@
         },
         "followers": {
             "href": null,
-            "total": 5594519
+            "total": 5616052
         },
         "genres": [
             "modern alternative rock",
@@ -195,7 +196,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4504553
+            "total": 4511540
         },
         "genres": [
             "irish singer-songwriter",
@@ -232,10 +233,11 @@
         },
         "followers": {
             "href": null,
-            "total": 145188
+            "total": 145441
         },
         "genres": [
             "indie folk",
+            "indie pop",
             "indie rock",
             "new jersey indie",
             "small room"
@@ -266,51 +268,11 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        },
-        "followers": {
-            "href": null,
-            "total": 438296
-        },
-        "genres": [
-            "indie pop",
-            "indie poptimism",
-            "indie rock",
-            "minneapolis indie",
-            "modern alternative rock",
-            "modern rock"
-        ],
-        "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-        "id": "1btWGBz4Uu1HozTwb2Lm8A",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/8566896482ed0a0e3c0bd4503ca3ae0c1950f019",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/777433ea9f3d9aa3cf600d67655a16f41cc10fdf",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/536155e4c4a744137e218e638d32c87ceb5e3679",
-                "width": 160
-            }
-        ],
-        "name": "Hippo Campus",
-        "popularity": 68,
-        "type": "artist",
-        "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         },
         "followers": {
             "href": null,
-            "total": 58869507
+            "total": 59051861
         },
         "genres": [
             "dance pop",
@@ -347,7 +309,7 @@
         },
         "followers": {
             "href": null,
-            "total": 29610820
+            "total": 29732538
         },
         "genres": [
             "canadian contemporary r&b",
@@ -380,11 +342,51 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        },
+        "followers": {
+            "href": null,
+            "total": 438952
+        },
+        "genres": [
+            "indie pop",
+            "indie poptimism",
+            "indie rock",
+            "minneapolis indie",
+            "modern alternative rock",
+            "modern rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+        "id": "1btWGBz4Uu1HozTwb2Lm8A",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/8566896482ed0a0e3c0bd4503ca3ae0c1950f019",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/777433ea9f3d9aa3cf600d67655a16f41cc10fdf",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/536155e4c4a744137e218e638d32c87ceb5e3679",
+                "width": 160
+            }
+        ],
+        "name": "Hippo Campus",
+        "popularity": 68,
+        "type": "artist",
+        "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         },
         "followers": {
             "href": null,
-            "total": 1547246
+            "total": 1554163
         },
         "genres": [
             "gauze pop",
@@ -421,7 +423,7 @@
         },
         "followers": {
             "href": null,
-            "total": 2920109
+            "total": 2923143
         },
         "genres": [
             "eau claire indie",

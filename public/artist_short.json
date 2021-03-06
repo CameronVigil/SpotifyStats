@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 3632534
+            "total": 3634594
         },
         "genres": [
             "downtempo",
@@ -38,11 +38,86 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        "followers": {
+            "href": null,
+            "total": 805529
+        },
+        "genres": [
+            "indie folk",
+            "indie pop",
+            "stomp and holler"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/8d4ed8d0c5caa942db27f2a6dd382a1e4d8fe620",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/5273017610cf1420e32422bb6bc5d892f0a34b19",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/1e82dfc42cfb349b0d170d4a72bf7de6360a38b7",
+                "width": 160
+            }
+        ],
+        "name": "Lord Huron",
+        "popularity": 76,
+        "type": "artist",
+        "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        },
+        "followers": {
+            "href": null,
+            "total": 618060
+        },
+        "genres": [
+            "australian indie",
+            "australian psych",
+            "double drumming",
+            "neo-psychedelic"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6XYvaoDGE0VmRt83Jss9Sn",
+        "id": "6XYvaoDGE0VmRt83Jss9Sn",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/4ef78eaae0e25d64d241471c385960980fca189e",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/6785dd210fc89f6ea3a171cb543aa6681b982169",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/a5291d52ce3bc1cd989c3431f315ec778a93a99d",
+                "width": 160
+            }
+        ],
+        "name": "King Gizzard & The Lizard Wizard",
+        "popularity": 70,
+        "type": "artist",
+        "uri": "spotify:artist:6XYvaoDGE0VmRt83Jss9Sn"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         },
         "followers": {
             "href": null,
-            "total": 794658
+            "total": 796021
         },
         "genres": [
             "contemporary country",
@@ -77,48 +152,11 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        "followers": {
-            "href": null,
-            "total": 803971
-        },
-        "genres": [
-            "indie folk",
-            "indie pop",
-            "stomp and holler"
-        ],
-        "href": "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
-        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/8d4ed8d0c5caa942db27f2a6dd382a1e4d8fe620",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/5273017610cf1420e32422bb6bc5d892f0a34b19",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/1e82dfc42cfb349b0d170d4a72bf7de6360a38b7",
-                "width": 160
-            }
-        ],
-        "name": "Lord Huron",
-        "popularity": 76,
-        "type": "artist",
-        "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         },
         "followers": {
             "href": null,
-            "total": 4504553
+            "total": 4511540
         },
         "genres": [
             "irish singer-songwriter",
@@ -151,89 +189,11 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        },
-        "followers": {
-            "href": null,
-            "total": 616497
-        },
-        "genres": [
-            "australian indie",
-            "australian psych",
-            "double drumming",
-            "neo-psychedelic"
-        ],
-        "href": "https://api.spotify.com/v1/artists/6XYvaoDGE0VmRt83Jss9Sn",
-        "id": "6XYvaoDGE0VmRt83Jss9Sn",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/4ef78eaae0e25d64d241471c385960980fca189e",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/6785dd210fc89f6ea3a171cb543aa6681b982169",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/a5291d52ce3bc1cd989c3431f315ec778a93a99d",
-                "width": 160
-            }
-        ],
-        "name": "King Gizzard & The Lizard Wizard",
-        "popularity": 70,
-        "type": "artist",
-        "uri": "spotify:artist:6XYvaoDGE0VmRt83Jss9Sn"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        "followers": {
-            "href": null,
-            "total": 482679
-        },
-        "genres": [
-            "alternative americana",
-            "indie folk",
-            "kentucky roots",
-            "nashville singer-songwriter",
-            "new americana",
-            "outlaw country"
-        ],
-        "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
-        "id": "3vDpQbGnzRbRVirXlfQagB",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/404240e5fa61e7d5039e10f1a2b9bbbc38b42c55",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/877245820c85abeb2cf916dc4c16fe60f32812c4",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/156b882c006d5b53c5f8d11e9b1f4b688a762c8f",
-                "width": 160
-            }
-        ],
-        "name": "Sturgill Simpson",
-        "popularity": 69,
-        "type": "artist",
-        "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         },
         "followers": {
             "href": null,
-            "total": 4704842
+            "total": 4715577
         },
         "genres": [
             "australian psych",
@@ -259,7 +219,7 @@
             }
         ],
         "name": "Tame Impala",
-        "popularity": 83,
+        "popularity": 84,
         "type": "artist",
         "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
@@ -269,7 +229,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4776346
+            "total": 4782744
         },
         "genres": [
             "modern alternative rock",
@@ -308,7 +268,7 @@
         },
         "followers": {
             "href": null,
-            "total": 29610820
+            "total": 29732538
         },
         "genres": [
             "canadian contemporary r&b",
@@ -341,11 +301,52 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        "followers": {
+            "href": null,
+            "total": 483521
+        },
+        "genres": [
+            "alternative americana",
+            "indie folk",
+            "kentucky roots",
+            "nashville singer-songwriter",
+            "new americana",
+            "outlaw country",
+            "roots rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
+        "id": "3vDpQbGnzRbRVirXlfQagB",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/404240e5fa61e7d5039e10f1a2b9bbbc38b42c55",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/877245820c85abeb2cf916dc4c16fe60f32812c4",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/156b882c006d5b53c5f8d11e9b1f4b688a762c8f",
+                "width": 160
+            }
+        ],
+        "name": "Sturgill Simpson",
+        "popularity": 69,
+        "type": "artist",
+        "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         },
         "followers": {
             "href": null,
-            "total": 151058
+            "total": 151355
         },
         "genres": [
             "alternative country",
@@ -377,40 +378,40 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+            "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         },
         "followers": {
             "href": null,
-            "total": 58869507
+            "total": 5616052
         },
         "genres": [
-            "dance pop",
-            "pop",
-            "post-teen pop"
+            "modern alternative rock",
+            "modern rock",
+            "pop"
         ],
-        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
-        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+        "id": "77SW9BnxLY8rJ0RciFqkHh",
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/f8c793519d837ca2f920c561535fe62ef32e8e5b",
+                "url": "https://i.scdn.co/image/81d31c929ec253818512cd51aacdc6e6960f78bd",
                 "width": 640
             },
             {
                 "height": 320,
-                "url": "https://i.scdn.co/image/610f278171ed793b0d6c771f2877e5d4fd533d38",
+                "url": "https://i.scdn.co/image/81f4a1c7694358c2d764e89b397113966cfcad49",
                 "width": 320
             },
             {
                 "height": 160,
-                "url": "https://i.scdn.co/image/03345cd15fe15956bbc204131ac1b45991b99bb6",
+                "url": "https://i.scdn.co/image/a09144d21029bd159d1e3777cb9bea17ba73464a",
                 "width": 160
             }
         ],
-        "name": "Ariana Grande",
-        "popularity": 98,
+        "name": "The Neighbourhood",
+        "popularity": 87,
         "type": "artist",
-        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     },
     {
         "external_urls": {
@@ -418,9 +419,10 @@
         },
         "followers": {
             "href": null,
-            "total": 1130879
+            "total": 1132341
         },
         "genres": [
+            "chill r&b",
             "uk pop"
         ],
         "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
