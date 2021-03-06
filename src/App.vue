@@ -6,7 +6,13 @@
         <h1>Spotify Stats</h1>
         <span>by Cameron Vigil</span>
         <div>
+          <button  class="button" @click="scrollAr">{{ TopArtists }}</button>
+        </div>
+        <div>
           <button  class="button" @click="scrollT">{{ TopTracks }}</button>
+        </div>
+        <div>
+          <button  class="button" @click="scrollAl">{{ TopAlbums }}</button>
         </div>
       </b-col>
       <b-col cols="9" class="col offset-3 black-background">
@@ -57,6 +63,37 @@
               {{item.album.artists[0].name}}
             </div>
           </span>
+        <h2 id="Top-Albums">Top Albums</h2>
+          <h3>Last 6 Months</h3>
+            <span class="container" v-for="item in albumDataShort" :key="item.name">
+              <img :src="item.album.images[0].url" height="300px" width="300px">
+              <div class="bottom-left-track">
+                {{item.album.name}}
+              </div>
+              <div class="bottom-left-album">
+                {{item.album.artists[0].name}}
+              </div>
+            </span>
+          <h3>Last 6 Months</h3>
+            <span class="container" v-for="item in albumDataMedium" :key="item.name">
+              <img :src="item.album.images[0].url" height="300px" width="300px">
+              <div class="bottom-left-track">
+                {{item.album.name}}
+              </div>
+              <div class="bottom-left-album">
+                {{item.album.artists[0].name}}
+              </div>
+            </span>
+          <h3>Overall</h3>
+            <span class="container" v-for="item in albumDataLong" :key="item.name">
+              <img :src="item.album.images[0].url" height="300px" width="300px">
+              <div class="bottom-left-track">
+                {{item.album.name}}
+              </div>
+              <div class="bottom-left-album">
+                {{item.album.artists[0].name}}
+              </div>
+            </span>
       </b-col >
     </b-row>
   </b-container>
@@ -70,6 +107,8 @@ export default {
   data() {
     return {
       TopTracks: 'Top Tracks',
+      TopArtists: 'Top Artists',
+      TopAlbums: 'Top Albums',
       msg: 'Spotify Stats',
       title: 'Spotify Stats',
       ttracks: 'Top Tracks',
@@ -89,6 +128,14 @@ export default {
   methods: {
     scrollT() {
       const element = document.getElementById('Top-Tracks');
+      element.scrollIntoView({ behavior: 'smooth' });
+    },
+    scrollAr() {
+      const element = document.getElementById('Top-Artists');
+      element.scrollIntoView({ behavior: 'smooth' });
+    },
+    scrollAl() {
+      const element = document.getElementById('Top-Albums');
       element.scrollIntoView({ behavior: 'smooth' });
     },
     getArtistShort() {
@@ -148,6 +195,9 @@ export default {
     this.getTrackShort();
     this.getTrackMedium();
     this.getTrackLong();
+    this.getAlbumShort();
+    this.getAlbumMedium();
+    this.getAlbumLong();
   },
 };
 </script>
