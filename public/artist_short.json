@@ -415,38 +415,42 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+            "spotify": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         "followers": {
             "href": null,
-            "total": 1132989
+            "total": 360188
         },
         "genres": [
-            "chill r&b",
-            "uk pop"
+            "bass trap",
+            "edm",
+            "electro house",
+            "electronic trap",
+            "electropop",
+            "pop dance"
         ],
-        "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
-        "id": "0Vw76uk7P8yVtTClWyOhac",
+        "href": "https://api.spotify.com/v1/artists/5eIbEEQnDM8yuDVB0bimSP",
+        "id": "5eIbEEQnDM8yuDVB0bimSP",
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/67f383563a69822108155fd0b80b8b0a12f0869f",
+                "url": "https://i.scdn.co/image/543f60bb81f76b8d595c45a8d682d2b7ad9743b4",
                 "width": 640
             },
             {
                 "height": 320,
-                "url": "https://i.scdn.co/image/1dcad851159ec455f6390879b437435934bcb557",
+                "url": "https://i.scdn.co/image/1625b4f1097d0862158b20a26bf363df6399f14e",
                 "width": 320
             },
             {
                 "height": 160,
-                "url": "https://i.scdn.co/image/8b9e5d9441a0208eca61b6a1f7fba5e390dd835d",
+                "url": "https://i.scdn.co/image/e071730ecd857de147fe6efdcca1933da1f85ac9",
                 "width": 160
             }
         ],
-        "name": "HONNE",
-        "popularity": 72,
+        "name": "RL Grime",
+        "popularity": 68,
         "type": "artist",
-        "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
+        "uri": "spotify:artist:5eIbEEQnDM8yuDVB0bimSP"
     }
 ]
