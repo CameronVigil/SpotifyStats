@@ -415,38 +415,39 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         },
         "followers": {
             "href": null,
-            "total": 1498953
+            "total": 4511540
         },
         "genres": [
-            "contemporary country",
-            "deep talent show"
+            "irish singer-songwriter",
+            "modern rock",
+            "pop"
         ],
-        "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
-        "id": "4oUHIQIBe0LHzYfvXNW4QM",
+        "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+        "id": "2FXC3k01G6Gw61bmprjgqS",
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/e9d5e31ed250f9eb331f17571a9a803cb41cf6c5",
+                "url": "https://i.scdn.co/image/2e4114631a20bd71903bc335b88f872afdce9a33",
                 "width": 640
             },
             {
                 "height": 320,
-                "url": "https://i.scdn.co/image/2c68e0cbe59817fa728177d96ec3bfd3ed3833e3",
+                "url": "https://i.scdn.co/image/4d4be818dc98d47b9086ecff8ec4883902781070",
                 "width": 320
             },
             {
                 "height": 160,
-                "url": "https://i.scdn.co/image/90cbd35d2e21315a122e79abf35babcd1c34e229",
+                "url": "https://i.scdn.co/image/c181b6184e82bd7f8411d97b87e4f1daa1bbbbb8",
                 "width": 160
             }
         ],
-        "name": "Morgan Wallen",
-        "popularity": 91,
+        "name": "Hozier",
+        "popularity": 83,
         "type": "artist",
-        "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+        "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
     }
 ]
