@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 3635606
+            "total": 3637578
         },
         "genres": [
             "downtempo",
@@ -42,7 +42,7 @@
         },
         "followers": {
             "href": null,
-            "total": 805529
+            "total": 806584
         },
         "genres": [
             "indie folk",
@@ -79,7 +79,7 @@
         },
         "followers": {
             "href": null,
-            "total": 618717
+            "total": 619783
         },
         "genres": [
             "australian indie",
@@ -117,7 +117,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4511540
+            "total": 4516025
         },
         "genres": [
             "irish singer-songwriter",
@@ -154,7 +154,7 @@
         },
         "followers": {
             "href": null,
-            "total": 796021
+            "total": 796970
         },
         "genres": [
             "contemporary country",
@@ -193,7 +193,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4715577
+            "total": 4722329
         },
         "genres": [
             "australian psych",
@@ -229,7 +229,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4782744
+            "total": 4786620
         },
         "genres": [
             "modern alternative rock",
@@ -264,89 +264,11 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        "followers": {
-            "href": null,
-            "total": 29732538
-        },
-        "genres": [
-            "canadian contemporary r&b",
-            "canadian pop",
-            "pop"
-        ],
-        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
-        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/37376dba0623c33923eae9d234e5e199b76d227f",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/bf5643a4223bb6483f5b0b981bce1cf7b5f92f84",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/8a188b7236f3c78416a3f75c9da52957ed3bcb9b",
-                "width": 160
-            }
-        ],
-        "name": "The Weeknd",
-        "popularity": 98,
-        "type": "artist",
-        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        "followers": {
-            "href": null,
-            "total": 483521
-        },
-        "genres": [
-            "alternative americana",
-            "indie folk",
-            "kentucky roots",
-            "nashville singer-songwriter",
-            "new americana",
-            "outlaw country",
-            "roots rock"
-        ],
-        "href": "https://api.spotify.com/v1/artists/3vDpQbGnzRbRVirXlfQagB",
-        "id": "3vDpQbGnzRbRVirXlfQagB",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/404240e5fa61e7d5039e10f1a2b9bbbc38b42c55",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/877245820c85abeb2cf916dc4c16fe60f32812c4",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/156b882c006d5b53c5f8d11e9b1f4b688a762c8f",
-                "width": 160
-            }
-        ],
-        "name": "Sturgill Simpson",
-        "popularity": 69,
-        "type": "artist",
-        "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         },
         "followers": {
             "href": null,
-            "total": 151355
+            "total": 151531
         },
         "genres": [
             "alternative country",
@@ -382,7 +304,7 @@
         },
         "followers": {
             "href": null,
-            "total": 5616052
+            "total": 5629772
         },
         "genres": [
             "modern alternative rock",
@@ -419,7 +341,7 @@
         },
         "followers": {
             "href": null,
-            "total": 360188
+            "total": 360360
         },
         "genres": [
             "bass trap",
@@ -452,5 +374,78 @@
         "popularity": 68,
         "type": "artist",
         "uri": "spotify:artist:5eIbEEQnDM8yuDVB0bimSP"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        "followers": {
+            "href": null,
+            "total": 1134269
+        },
+        "genres": [
+            "chill r&b",
+            "uk pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
+        "id": "0Vw76uk7P8yVtTClWyOhac",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/67f383563a69822108155fd0b80b8b0a12f0869f",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/1dcad851159ec455f6390879b437435934bcb557",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/8b9e5d9441a0208eca61b6a1f7fba5e390dd835d",
+                "width": 160
+            }
+        ],
+        "name": "HONNE",
+        "popularity": 72,
+        "type": "artist",
+        "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "followers": {
+            "href": null,
+            "total": 59181007
+        },
+        "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/f8c793519d837ca2f920c561535fe62ef32e8e5b",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/610f278171ed793b0d6c771f2877e5d4fd533d38",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/03345cd15fe15956bbc204131ac1b45991b99bb6",
+                "width": 160
+            }
+        ],
+        "name": "Ariana Grande",
+        "popularity": 97,
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
     }
 ]

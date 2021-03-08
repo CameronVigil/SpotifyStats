@@ -479,13 +479,13 @@
             "artists": [
                 {
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+                        "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
                     },
-                    "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-                    "id": "5INjqkS1o8h1imAzPqGZBb",
-                    "name": "Tame Impala",
+                    "href": "https://api.spotify.com/v1/artists/4kqFrZkeqDfOIEqTWqbOOV",
+                    "id": "4kqFrZkeqDfOIEqTWqbOOV",
+                    "name": "brakence",
                     "type": "artist",
-                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                    "uri": "spotify:artist:4kqFrZkeqDfOIEqTWqbOOV"
                 }
             ],
             "available_markets": [
@@ -570,44 +570,44 @@
                 "ZA"
             ],
             "external_urls": {
-                "spotify": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+                "spotify": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
             },
-            "href": "https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL",
-            "id": "31qVWUdRrlb8thMvts0yYL",
+            "href": "https://api.spotify.com/v1/albums/0BAmcZfsraNVyG6rj782Og",
+            "id": "0BAmcZfsraNVyG6rj782Og",
             "images": [
                 {
                     "height": 640,
-                    "url": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+                    "url": "https://i.scdn.co/image/ab67616d0000b273eb88e3c32c3bb61e318695b3",
                     "width": 640
                 },
                 {
                     "height": 300,
-                    "url": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+                    "url": "https://i.scdn.co/image/ab67616d00001e02eb88e3c32c3bb61e318695b3",
                     "width": 300
                 },
                 {
                     "height": 64,
-                    "url": "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
+                    "url": "https://i.scdn.co/image/ab67616d00004851eb88e3c32c3bb61e318695b3",
                     "width": 64
                 }
             ],
-            "name": "The Slow Rush",
-            "release_date": "2020-02-14",
+            "name": "punk2",
+            "release_date": "2020-07-01",
             "release_date_precision": "day",
-            "total_tracks": 12,
+            "total_tracks": 11,
             "type": "album",
-            "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL"
+            "uri": "spotify:album:0BAmcZfsraNVyG6rj782Og"
         },
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+                    "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
                 },
-                "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-                "id": "5INjqkS1o8h1imAzPqGZBb",
-                "name": "Tame Impala",
+                "href": "https://api.spotify.com/v1/artists/4kqFrZkeqDfOIEqTWqbOOV",
+                "id": "4kqFrZkeqDfOIEqTWqbOOV",
+                "name": "brakence",
                 "type": "artist",
-                "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                "uri": "spotify:artist:4kqFrZkeqDfOIEqTWqbOOV"
             }
         ],
         "available_markets": [
@@ -691,23 +691,23 @@
             "VN",
             "ZA"
         ],
-        "disc_number": 1,
-        "duration_ms": 249586,
-        "explicit": false,
+        "disc_number": 2,
+        "duration_ms": 113032,
+        "explicit": true,
         "external_ids": {
-            "isrc": "AUUM71900932"
+            "isrc": "USSM12003817"
         },
         "external_urls": {
-            "spotify": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+            "spotify": "https://open.spotify.com/track/7HJIsMRaspjB0Dvi2qzOgp"
         },
-        "href": "https://api.spotify.com/v1/tracks/5JWPUEov2wlX7c0jhYZpeB",
-        "id": "5JWPUEov2wlX7c0jhYZpeB",
+        "href": "https://api.spotify.com/v1/tracks/7HJIsMRaspjB0Dvi2qzOgp",
+        "id": "7HJIsMRaspjB0Dvi2qzOgp",
         "is_local": false,
-        "name": "Lost In Yesterday",
-        "popularity": 71,
-        "preview_url": "https://p.scdn.co/mp3-preview/79ae58907e563abfd151d91a4b8d11e00911459b?cid=70501fc412a34877a1becc7cf260d1f7",
-        "track_number": 8,
+        "name": "sauceintherough - bonus track",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/c24ea56262536c09b1ccc57e442c2c1679cc1056?cid=70501fc412a34877a1becc7cf260d1f7",
+        "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:5JWPUEov2wlX7c0jhYZpeB"
+        "uri": "spotify:track:7HJIsMRaspjB0Dvi2qzOgp"
     }
 ]

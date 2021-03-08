@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4782744
+            "total": 4786620
         },
         "genres": [
             "modern alternative rock",
@@ -44,7 +44,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4715577
+            "total": 4722329
         },
         "genres": [
             "australian psych",
@@ -80,7 +80,7 @@
         },
         "followers": {
             "href": null,
-            "total": 618717
+            "total": 619783
         },
         "genres": [
             "australian indie",
@@ -118,7 +118,7 @@
         },
         "followers": {
             "href": null,
-            "total": 483521
+            "total": 484170
         },
         "genres": [
             "alternative americana",
@@ -159,7 +159,7 @@
         },
         "followers": {
             "href": null,
-            "total": 5616052
+            "total": 5629772
         },
         "genres": [
             "modern alternative rock",
@@ -196,7 +196,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4511540
+            "total": 4516025
         },
         "genres": [
             "irish singer-songwriter",
@@ -233,7 +233,7 @@
         },
         "followers": {
             "href": null,
-            "total": 145441
+            "total": 145604
         },
         "genres": [
             "indie folk",
@@ -272,7 +272,7 @@
         },
         "followers": {
             "href": null,
-            "total": 59051861
+            "total": 59181007
         },
         "genres": [
             "dance pop",
@@ -299,7 +299,7 @@
             }
         ],
         "name": "Ariana Grande",
-        "popularity": 98,
+        "popularity": 97,
         "type": "artist",
         "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
     },
@@ -309,7 +309,7 @@
         },
         "followers": {
             "href": null,
-            "total": 29732538
+            "total": 29810353
         },
         "genres": [
             "canadian contemporary r&b",
@@ -346,7 +346,7 @@
         },
         "followers": {
             "href": null,
-            "total": 438952
+            "total": 439331
         },
         "genres": [
             "indie pop",
@@ -376,7 +376,7 @@
             }
         ],
         "name": "Hippo Campus",
-        "popularity": 68,
+        "popularity": 69,
         "type": "artist",
         "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
     },
@@ -386,7 +386,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1554163
+            "total": 1558707
         },
         "genres": [
             "gauze pop",
@@ -423,7 +423,7 @@
         },
         "followers": {
             "href": null,
-            "total": 2923143
+            "total": 2925034
         },
         "genres": [
             "eau claire indie",

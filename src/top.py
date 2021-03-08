@@ -33,8 +33,7 @@ def get_top_tracks(sp):
             json.dump(results[1], f, ensure_ascii=False,indent=4)
     with open('public/track_long.json', 'w',encoding='utf-8') as f:
             json.dump(results[2], f, ensure_ascii=False,indent=4)
-    
-    
+
 
 #######gets top albums########
 def get_top_albums(sp):
@@ -55,13 +54,3 @@ def get_top_albums(sp):
     with open('public/album_long.json', 'w',encoding='utf-8') as f:
             json.dump(results[2], f, ensure_ascii=False,indent=4)
 
-    #     for i, item in enumerate(results['items']):
-    #         if len(top_album_set) == 10:
-    #             find = True
-    #             break
-    #         if item['album']['name'] not in top_album_set:
-    #             top_album_set.append(item['album']['name'])
-    #     if find:
-    #         top_albums.append(json.dumps(top_album_set))
-    #         top_album_set.clear()
-    # top_albums = json.dumps(top_albums)
