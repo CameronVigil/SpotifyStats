@@ -7,7 +7,7 @@
     "app": "python3 ../client/src/app.py",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "(npm run app && npm run serve)",
+    "start": "(npm run app && npm run build)",
     "deploy": "node Scripts/gh-pages-deploy.js"       
   },
   "dependencies": {
