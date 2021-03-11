@@ -1,0 +1,948 @@
+[
+    {
+        "album": {
+            "album_type": "SINGLE",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+                    "id": "3mIj9lX2MWuHmhNCA7LSCW",
+                    "name": "The 1975",
+                    "type": "artist",
+                    "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+                }
+            ],
+            "available_markets": [],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1jtXvj2pZXWRgBsx1RBa8u"
+            },
+            "href": "https://api.spotify.com/v1/albums/1jtXvj2pZXWRgBsx1RBa8u",
+            "id": "1jtXvj2pZXWRgBsx1RBa8u",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273be29b68ca2c0d7420d8dd5a6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02be29b68ca2c0d7420d8dd5a6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851be29b68ca2c0d7420d8dd5a6",
+                    "width": 64
+                }
+            ],
+            "name": "Love It If We Made It",
+            "release_date": "2018-07-19",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:1jtXvj2pZXWRgBsx1RBa8u"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+                },
+                "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+                "id": "3mIj9lX2MWuHmhNCA7LSCW",
+                "name": "The 1975",
+                "type": "artist",
+                "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+            }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 253249,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBK3W1800771"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0ORgAzmFh8N97SseJvmqgC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ORgAzmFh8N97SseJvmqgC",
+        "id": "0ORgAzmFh8N97SseJvmqgC",
+        "is_local": false,
+        "name": "Love It If We Made It",
+        "popularity": 0,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ORgAzmFh8N97SseJvmqgC"
+    },
+    {
+        "album": {
+            "album_type": "SINGLE",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+                    "id": "3mIj9lX2MWuHmhNCA7LSCW",
+                    "name": "The 1975",
+                    "type": "artist",
+                    "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+                }
+            ],
+            "available_markets": [],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0Z5H1G2rS6VU79FIObKVXT"
+            },
+            "href": "https://api.spotify.com/v1/albums/0Z5H1G2rS6VU79FIObKVXT",
+            "id": "0Z5H1G2rS6VU79FIObKVXT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736223cee839558ed11d93b9d2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026223cee839558ed11d93b9d2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516223cee839558ed11d93b9d2",
+                    "width": 64
+                }
+            ],
+            "name": "Sincerity Is Scary",
+            "release_date": "2018-09-13",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:0Z5H1G2rS6VU79FIObKVXT"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+                },
+                "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+                "id": "3mIj9lX2MWuHmhNCA7LSCW",
+                "name": "The 1975",
+                "type": "artist",
+                "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+            }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 225955,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBK3W1800834"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/06Vthiq8nNDuT5nOcch535"
+        },
+        "href": "https://api.spotify.com/v1/tracks/06Vthiq8nNDuT5nOcch535",
+        "id": "06Vthiq8nNDuT5nOcch535",
+        "is_local": false,
+        "name": "Sincerity Is Scary",
+        "popularity": 0,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:06Vthiq8nNDuT5nOcch535"
+    },
+    {
+        "album": {
+            "album_type": "ALBUM",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5tN6fQFvbiTYubJ9okxkft"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5tN6fQFvbiTYubJ9okxkft",
+                    "id": "5tN6fQFvbiTYubJ9okxkft",
+                    "name": "Malice",
+                    "type": "artist",
+                    "uri": "spotify:artist:5tN6fQFvbiTYubJ9okxkft"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IS",
+                "IT",
+                "JO",
+                "KW",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "SA",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "US",
+                "UY",
+                "VN",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1S0ovEMM9jC9pSNfVbiBNy"
+            },
+            "href": "https://api.spotify.com/v1/albums/1S0ovEMM9jC9pSNfVbiBNy",
+            "id": "1S0ovEMM9jC9pSNfVbiBNy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738164ed68984df88886a679e6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028164ed68984df88886a679e6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518164ed68984df88886a679e6",
+                    "width": 64
+                }
+            ],
+            "name": "The Redo",
+            "release_date": "2007",
+            "release_date_precision": "year",
+            "total_tracks": 19,
+            "type": "album",
+            "uri": "spotify:album:1S0ovEMM9jC9pSNfVbiBNy"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5tN6fQFvbiTYubJ9okxkft"
+                },
+                "href": "https://api.spotify.com/v1/artists/5tN6fQFvbiTYubJ9okxkft",
+                "id": "5tN6fQFvbiTYubJ9okxkft",
+                "name": "Malice",
+                "type": "artist",
+                "uri": "spotify:artist:5tN6fQFvbiTYubJ9okxkft"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1JZKcqUpX7bHsaTcTT8fab"
+                },
+                "href": "https://api.spotify.com/v1/artists/1JZKcqUpX7bHsaTcTT8fab",
+                "id": "1JZKcqUpX7bHsaTcTT8fab",
+                "name": "Scott Something or Other From Creed",
+                "type": "artist",
+                "uri": "spotify:artist:1JZKcqUpX7bHsaTcTT8fab"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BH",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IS",
+            "IT",
+            "JO",
+            "KW",
+            "LB",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MA",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PS",
+            "PT",
+            "PY",
+            "QA",
+            "RO",
+            "SA",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 263800,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USBAE0902863"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3kP2WtpH0iTILdXPmEVstH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kP2WtpH0iTILdXPmEVstH",
+        "id": "3kP2WtpH0iTILdXPmEVstH",
+        "is_local": false,
+        "name": "6 Feet From The Edge (feat. Scott Something or Other From Creed)",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/09c8af32131ed8d4cb5dadef41e157cebae02c4b?cid=70501fc412a34877a1becc7cf260d1f7",
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:3kP2WtpH0iTILdXPmEVstH"
+    },
+    {
+        "album": {
+            "album_type": "ALBUM",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+                    "id": "4LLpKhyESsyAXpc4laK94U",
+                    "name": "Mac Miller",
+                    "type": "artist",
+                    "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IS",
+                "IT",
+                "JO",
+                "JP",
+                "KW",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "SA",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "US",
+                "UY",
+                "VN",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+            },
+            "href": "https://api.spotify.com/v1/albums/5wtE5aLX5r7jOosmPhJhhk",
+            "id": "5wtE5aLX5r7jOosmPhJhhk",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851175c577a61aa13d4fb4b6534",
+                    "width": 64
+                }
+            ],
+            "name": "Swimming",
+            "release_date": "2018-08-03",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:5wtE5aLX5r7jOosmPhJhhk"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+                },
+                "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+                "id": "4LLpKhyESsyAXpc4laK94U",
+                "name": "Mac Miller",
+                "type": "artist",
+                "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BH",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IS",
+            "IT",
+            "JO",
+            "JP",
+            "KW",
+            "LB",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MA",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PS",
+            "PT",
+            "PY",
+            "QA",
+            "RO",
+            "SA",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 161840,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USWB11801211"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/01z2fBGB8Hl3Jd3zXe4IXR",
+        "id": "01z2fBGB8Hl3Jd3zXe4IXR",
+        "is_local": false,
+        "name": "Come Back to Earth",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/df6cba8215d6607251ad69e032445df6538b7289?cid=70501fc412a34877a1becc7cf260d1f7",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:01z2fBGB8Hl3Jd3zXe4IXR"
+    },
+    {
+        "album": {
+            "album_type": "ALBUM",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+                    "id": "3mIj9lX2MWuHmhNCA7LSCW",
+                    "name": "The 1975",
+                    "type": "artist",
+                    "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AR",
+                "AT",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GB",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IS",
+                "IT",
+                "JO",
+                "JP",
+                "KW",
+                "LB",
+                "LI",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "SA",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "US",
+                "UY",
+                "VN",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+            },
+            "href": "https://api.spotify.com/v1/albums/6PWXKiakqhI17mTYM4y6oY",
+            "id": "6PWXKiakqhI17mTYM4y6oY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736c582022e90b11f0da287a9a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026c582022e90b11f0da287a9a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516c582022e90b11f0da287a9a",
+                    "width": 64
+                }
+            ],
+            "name": "A Brief Inquiry Into Online Relationships",
+            "release_date": "2018-11-30",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:6PWXKiakqhI17mTYM4y6oY"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+                },
+                "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+                "id": "3mIj9lX2MWuHmhNCA7LSCW",
+                "name": "The 1975",
+                "type": "artist",
+                "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AR",
+            "AT",
+            "BE",
+            "BG",
+            "BH",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IS",
+            "IT",
+            "JO",
+            "JP",
+            "KW",
+            "LB",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MA",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "OM",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PS",
+            "PT",
+            "PY",
+            "QA",
+            "RO",
+            "SA",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 206755,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBK3W1800836"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1RHuBRoACkLRo2vjGqFCwf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RHuBRoACkLRo2vjGqFCwf",
+        "id": "1RHuBRoACkLRo2vjGqFCwf",
+        "is_local": false,
+        "name": "I Like America & America Likes Me",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/0ce6c684ce1fba92e8d297793a849b4ae236e30a?cid=70501fc412a34877a1becc7cf260d1f7",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1RHuBRoACkLRo2vjGqFCwf"
+    },
+    {
+        "album": {
+            "album_type": "SINGLE",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+                    "id": "3mIj9lX2MWuHmhNCA7LSCW",
+                    "name": "The 1975",
+                    "type": "artist",
+                    "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+                }
+            ],
+            "available_markets": [],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5idWJVJgo5Wa7wFGsB3Kjj"
+            },
+            "href": "https://api.spotify.com/v1/albums/5idWJVJgo5Wa7wFGsB3Kjj",
+            "id": "5idWJVJgo5Wa7wFGsB3Kjj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273485f550938133100829e73f8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02485f550938133100829e73f8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851485f550938133100829e73f8",
+                    "width": 64
+                }
+            ],
+            "name": "It's Not Living (If It's Not With You)",
+            "release_date": "2018-10-18",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5idWJVJgo5Wa7wFGsB3Kjj"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+                },
+                "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+                "id": "3mIj9lX2MWuHmhNCA7LSCW",
+                "name": "The 1975",
+                "type": "artist",
+                "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+            }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 248335,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBK3W1800838"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0D4yVl9Pn45xW2s63MFCmT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0D4yVl9Pn45xW2s63MFCmT",
+        "id": "0D4yVl9Pn45xW2s63MFCmT",
+        "is_local": false,
+        "name": "It's Not Living (If It's Not With You)",
+        "popularity": 0,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0D4yVl9Pn45xW2s63MFCmT"
+    }
+]
