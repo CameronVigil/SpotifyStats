@@ -11,6 +11,6 @@ cd env
 python3 -m venv env
 source env/bin/source
 cd client
-npm run start
+npm run local
 
 ```
