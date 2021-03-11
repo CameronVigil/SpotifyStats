@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4722329
+            "total": 4731860
         },
         "genres": [
             "australian psych",
@@ -41,7 +41,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4786620
+            "total": 4792434
         },
         "genres": [
             "modern alternative rock",
@@ -70,7 +70,7 @@
             }
         ],
         "name": "The 1975",
-        "popularity": 81,
+        "popularity": 82,
         "type": "artist",
         "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     },
@@ -80,7 +80,7 @@
         },
         "followers": {
             "href": null,
-            "total": 619783
+            "total": 621227
         },
         "genres": [
             "australian indie",
@@ -118,7 +118,7 @@
         },
         "followers": {
             "href": null,
-            "total": 5629772
+            "total": 5650063
         },
         "genres": [
             "modern alternative rock",
@@ -155,7 +155,7 @@
         },
         "followers": {
             "href": null,
-            "total": 484170
+            "total": 485019
         },
         "genres": [
             "alternative americana",
@@ -196,7 +196,7 @@
         },
         "followers": {
             "href": null,
-            "total": 71247
+            "total": 71804
         },
         "genres": [
             "emo rap",
@@ -232,7 +232,7 @@
         },
         "followers": {
             "href": null,
-            "total": 37562
+            "total": 37618
         },
         "genres": [
             "new americana"
@@ -267,7 +267,7 @@
         },
         "followers": {
             "href": null,
-            "total": 59181007
+            "total": 59355769
         },
         "genres": [
             "dance pop",
@@ -304,7 +304,7 @@
         },
         "followers": {
             "href": null,
-            "total": 5443264
+            "total": 5451802
         },
         "genres": [
             "australian pop",
@@ -335,7 +335,7 @@
             }
         ],
         "name": "Troye Sivan",
-        "popularity": 80,
+        "popularity": 81,
         "type": "artist",
         "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
     },
@@ -345,7 +345,7 @@
         },
         "followers": {
             "href": null,
-            "total": 3637578
+            "total": 3640303
         },
         "genres": [
             "downtempo",
@@ -378,11 +378,48 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        "followers": {
+            "href": null,
+            "total": 808038
+        },
+        "genres": [
+            "indie folk",
+            "indie pop",
+            "stomp and holler"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6ltzsmQQbmdoHHbLZ4ZN25",
+        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/8d4ed8d0c5caa942db27f2a6dd382a1e4d8fe620",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/5273017610cf1420e32422bb6bc5d892f0a34b19",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/1e82dfc42cfb349b0d170d4a72bf7de6360a38b7",
+                "width": 160
+            }
+        ],
+        "name": "Lord Huron",
+        "popularity": 76,
+        "type": "artist",
+        "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         },
         "followers": {
             "href": null,
-            "total": 1558707
+            "total": 1565088
         },
         "genres": [
             "gauze pop",
@@ -409,45 +446,8 @@
             }
         ],
         "name": "Glass Animals",
-        "popularity": 83,
+        "popularity": 84,
         "type": "artist",
         "uri": "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        "followers": {
-            "href": null,
-            "total": 4516025
-        },
-        "genres": [
-            "irish singer-songwriter",
-            "modern rock",
-            "pop"
-        ],
-        "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
-        "id": "2FXC3k01G6Gw61bmprjgqS",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/2e4114631a20bd71903bc335b88f872afdce9a33",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/4d4be818dc98d47b9086ecff8ec4883902781070",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/c181b6184e82bd7f8411d97b87e4f1daa1bbbbb8",
-                "width": 160
-            }
-        ],
-        "name": "Hozier",
-        "popularity": 83,
-        "type": "artist",
-        "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
     }
 ]

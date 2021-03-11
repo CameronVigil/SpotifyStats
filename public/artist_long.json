@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4786620
+            "total": 4792434
         },
         "genres": [
             "modern alternative rock",
@@ -34,7 +34,7 @@
             }
         ],
         "name": "The 1975",
-        "popularity": 81,
+        "popularity": 82,
         "type": "artist",
         "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     },
@@ -44,7 +44,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4722329
+            "total": 4731860
         },
         "genres": [
             "australian psych",
@@ -80,7 +80,7 @@
         },
         "followers": {
             "href": null,
-            "total": 619783
+            "total": 621227
         },
         "genres": [
             "australian indie",
@@ -118,7 +118,7 @@
         },
         "followers": {
             "href": null,
-            "total": 484170
+            "total": 485019
         },
         "genres": [
             "alternative americana",
@@ -155,48 +155,11 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        },
-        "followers": {
-            "href": null,
-            "total": 5629772
-        },
-        "genres": [
-            "modern alternative rock",
-            "modern rock",
-            "pop"
-        ],
-        "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
-        "id": "77SW9BnxLY8rJ0RciFqkHh",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/81d31c929ec253818512cd51aacdc6e6960f78bd",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/81f4a1c7694358c2d764e89b397113966cfcad49",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/a09144d21029bd159d1e3777cb9bea17ba73464a",
-                "width": 160
-            }
-        ],
-        "name": "The Neighbourhood",
-        "popularity": 87,
-        "type": "artist",
-        "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         },
         "followers": {
             "href": null,
-            "total": 4516025
+            "total": 4522709
         },
         "genres": [
             "irish singer-songwriter",
@@ -229,11 +192,48 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        },
+        "followers": {
+            "href": null,
+            "total": 5650063
+        },
+        "genres": [
+            "modern alternative rock",
+            "modern rock",
+            "pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+        "id": "77SW9BnxLY8rJ0RciFqkHh",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/81d31c929ec253818512cd51aacdc6e6960f78bd",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/81f4a1c7694358c2d764e89b397113966cfcad49",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/a09144d21029bd159d1e3777cb9bea17ba73464a",
+                "width": 160
+            }
+        ],
+        "name": "The Neighbourhood",
+        "popularity": 87,
+        "type": "artist",
+        "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
         },
         "followers": {
             "href": null,
-            "total": 145604
+            "total": 145829
         },
         "genres": [
             "indie folk",
@@ -272,7 +272,7 @@
         },
         "followers": {
             "href": null,
-            "total": 59181007
+            "total": 59355769
         },
         "genres": [
             "dance pop",
@@ -305,11 +305,48 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        "followers": {
+            "href": null,
+            "total": 1565088
+        },
+        "genres": [
+            "gauze pop",
+            "indietronica",
+            "shiver pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4yvcSjfu4PC0CYQyLy4wSq",
+        "id": "4yvcSjfu4PC0CYQyLy4wSq",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/f282504561b0c2b2ec74925793bbf132982e9098",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/43889206b3aab1e168d664ff9a2a30c5d4e50055",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/ebfc603dcc3c1efc110fc0563aa31121a2033804",
+                "width": 160
+            }
+        ],
+        "name": "Glass Animals",
+        "popularity": 84,
+        "type": "artist",
+        "uri": "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         "followers": {
             "href": null,
-            "total": 29810353
+            "total": 29917463
         },
         "genres": [
             "canadian contemporary r&b",
@@ -346,7 +383,7 @@
         },
         "followers": {
             "href": null,
-            "total": 439331
+            "total": 439985
         },
         "genres": [
             "indie pop",
@@ -382,48 +419,11 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        },
-        "followers": {
-            "href": null,
-            "total": 1558707
-        },
-        "genres": [
-            "gauze pop",
-            "indietronica",
-            "shiver pop"
-        ],
-        "href": "https://api.spotify.com/v1/artists/4yvcSjfu4PC0CYQyLy4wSq",
-        "id": "4yvcSjfu4PC0CYQyLy4wSq",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/f282504561b0c2b2ec74925793bbf132982e9098",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/43889206b3aab1e168d664ff9a2a30c5d4e50055",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/ebfc603dcc3c1efc110fc0563aa31121a2033804",
-                "width": 160
-            }
-        ],
-        "name": "Glass Animals",
-        "popularity": 83,
-        "type": "artist",
-        "uri": "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         },
         "followers": {
             "href": null,
-            "total": 2925034
+            "total": 2927732
         },
         "genres": [
             "eau claire indie",

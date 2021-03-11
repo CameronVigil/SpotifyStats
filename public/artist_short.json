@@ -1,48 +1,11 @@
 [
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        },
-        "followers": {
-            "href": null,
-            "total": 3637578
-        },
-        "genres": [
-            "downtempo",
-            "dream pop",
-            "indietronica"
-        ],
-        "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
-        "id": "3iOvXCl6edW5Um0fXEBRXy",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/922163afa546eca372c27be4513a481de06e9481",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/8ef506656acfc2bc1449b9a963026bd7296df2e2",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/7e7c16105b54b9abcc056d25b3fb549372a8df38",
-                "width": 160
-            }
-        ],
-        "name": "The xx",
-        "popularity": 72,
-        "type": "artist",
-        "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
-    },
-    {
-        "external_urls": {
             "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         },
         "followers": {
             "href": null,
-            "total": 806584
+            "total": 808038
         },
         "genres": [
             "indie folk",
@@ -75,11 +38,48 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        "followers": {
+            "href": null,
+            "total": 3640303
+        },
+        "genres": [
+            "downtempo",
+            "dream pop",
+            "indietronica"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+        "id": "3iOvXCl6edW5Um0fXEBRXy",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/922163afa546eca372c27be4513a481de06e9481",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/8ef506656acfc2bc1449b9a963026bd7296df2e2",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/7e7c16105b54b9abcc056d25b3fb549372a8df38",
+                "width": 160
+            }
+        ],
+        "name": "The xx",
+        "popularity": 72,
+        "type": "artist",
+        "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         },
         "followers": {
             "href": null,
-            "total": 619783
+            "total": 621227
         },
         "genres": [
             "australian indie",
@@ -117,7 +117,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4516025
+            "total": 4522709
         },
         "genres": [
             "irish singer-songwriter",
@@ -150,11 +150,86 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        "followers": {
+            "href": null,
+            "total": 4792434
+        },
+        "genres": [
+            "modern alternative rock",
+            "modern rock",
+            "nu gaze",
+            "pop",
+            "rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+        "id": "3mIj9lX2MWuHmhNCA7LSCW",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/94dd2feca73bdfb7e1c12751b499ec0a46024866",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/05dcebda5c8594a51eeb4b3333572342152b6c38",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251",
+                "width": 160
+            }
+        ],
+        "name": "The 1975",
+        "popularity": 82,
+        "type": "artist",
+        "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "followers": {
+            "href": null,
+            "total": 4731860
+        },
+        "genres": [
+            "australian psych",
+            "neo-psychedelic"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/a7cb9fc6df8b68fdb071156add87284c3c941a04",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/135442e5a19db953eb2f48ff39ff8c4c985dc7e1",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/edc87a3af030da0e1d671d20d734528c8d4e880e",
+                "width": 160
+            }
+        ],
+        "name": "Tame Impala",
+        "popularity": 84,
+        "type": "artist",
+        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         },
         "followers": {
             "href": null,
-            "total": 796970
+            "total": 798334
         },
         "genres": [
             "contemporary country",
@@ -189,114 +264,75 @@
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+            "spotify": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         },
         "followers": {
             "href": null,
-            "total": 4722329
+            "total": 1136240
         },
         "genres": [
-            "australian psych",
-            "neo-psychedelic"
+            "chill r&b",
+            "uk pop"
         ],
-        "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-        "id": "5INjqkS1o8h1imAzPqGZBb",
+        "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
+        "id": "0Vw76uk7P8yVtTClWyOhac",
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/a7cb9fc6df8b68fdb071156add87284c3c941a04",
+                "url": "https://i.scdn.co/image/67f383563a69822108155fd0b80b8b0a12f0869f",
                 "width": 640
             },
             {
                 "height": 320,
-                "url": "https://i.scdn.co/image/135442e5a19db953eb2f48ff39ff8c4c985dc7e1",
+                "url": "https://i.scdn.co/image/1dcad851159ec455f6390879b437435934bcb557",
                 "width": 320
             },
             {
                 "height": 160,
-                "url": "https://i.scdn.co/image/edc87a3af030da0e1d671d20d734528c8d4e880e",
+                "url": "https://i.scdn.co/image/8b9e5d9441a0208eca61b6a1f7fba5e390dd835d",
                 "width": 160
             }
         ],
-        "name": "Tame Impala",
-        "popularity": 84,
+        "name": "HONNE",
+        "popularity": 72,
         "type": "artist",
-        "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
     },
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+            "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         },
         "followers": {
             "href": null,
-            "total": 4786620
+            "total": 71804
         },
         "genres": [
-            "modern alternative rock",
-            "modern rock",
-            "nu gaze",
-            "pop",
-            "rock"
+            "emo rap",
+            "sad rap"
         ],
-        "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
-        "id": "3mIj9lX2MWuHmhNCA7LSCW",
+        "href": "https://api.spotify.com/v1/artists/4kqFrZkeqDfOIEqTWqbOOV",
+        "id": "4kqFrZkeqDfOIEqTWqbOOV",
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/94dd2feca73bdfb7e1c12751b499ec0a46024866",
+                "url": "https://i.scdn.co/image/2b7d5c540494aec7f99190c1fd6360ab14bea4c7",
                 "width": 640
             },
             {
                 "height": 320,
-                "url": "https://i.scdn.co/image/05dcebda5c8594a51eeb4b3333572342152b6c38",
+                "url": "https://i.scdn.co/image/3a662cf16aac45fdd289fc4a5f5a92ed2cf1806a",
                 "width": 320
             },
             {
                 "height": 160,
-                "url": "https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251",
+                "url": "https://i.scdn.co/image/258699080f020971f7c1173c5243a79675561dc1",
                 "width": 160
             }
         ],
-        "name": "The 1975",
-        "popularity": 81,
+        "name": "brakence",
+        "popularity": 64,
         "type": "artist",
-        "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        "followers": {
-            "href": null,
-            "total": 151531
-        },
-        "genres": [
-            "alternative country",
-            "queer country"
-        ],
-        "href": "https://api.spotify.com/v1/artists/46auOkH1pk28rWrSoUNhLo",
-        "id": "46auOkH1pk28rWrSoUNhLo",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/bb2055b78f4eec9b5e19cb9e9792395b71a4564b",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/bf98b5ba59b236e789c2f5a48b21e681c534dab6",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/62181378a430fe844b804f0fbb3c8a4fcfcad0c8",
-                "width": 160
-            }
-        ],
-        "name": "Orville Peck",
-        "popularity": 57,
-        "type": "artist",
-        "uri": "spotify:artist:46auOkH1pk28rWrSoUNhLo"
+        "uri": "spotify:artist:4kqFrZkeqDfOIEqTWqbOOV"
     },
     {
         "external_urls": {
@@ -304,7 +340,7 @@
         },
         "followers": {
             "href": null,
-            "total": 5629772
+            "total": 5650063
         },
         "genres": [
             "modern alternative rock",
@@ -337,11 +373,48 @@
     },
     {
         "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "followers": {
+            "href": null,
+            "total": 59355769
+        },
+        "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/f8c793519d837ca2f920c561535fe62ef32e8e5b",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/610f278171ed793b0d6c771f2877e5d4fd533d38",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/03345cd15fe15956bbc204131ac1b45991b99bb6",
+                "width": 160
+            }
+        ],
+        "name": "Ariana Grande",
+        "popularity": 97,
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+        "external_urls": {
             "spotify": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         "followers": {
             "href": null,
-            "total": 360360
+            "total": 360646
         },
         "genres": [
             "bass trap",
@@ -374,78 +447,5 @@
         "popularity": 68,
         "type": "artist",
         "uri": "spotify:artist:5eIbEEQnDM8yuDVB0bimSP"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        },
-        "followers": {
-            "href": null,
-            "total": 1134269
-        },
-        "genres": [
-            "chill r&b",
-            "uk pop"
-        ],
-        "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
-        "id": "0Vw76uk7P8yVtTClWyOhac",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/67f383563a69822108155fd0b80b8b0a12f0869f",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/1dcad851159ec455f6390879b437435934bcb557",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/8b9e5d9441a0208eca61b6a1f7fba5e390dd835d",
-                "width": 160
-            }
-        ],
-        "name": "HONNE",
-        "popularity": 72,
-        "type": "artist",
-        "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        "followers": {
-            "href": null,
-            "total": 59181007
-        },
-        "genres": [
-            "dance pop",
-            "pop",
-            "post-teen pop"
-        ],
-        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
-        "id": "66CXWjxzNUsdJxJ2JdwvnR",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/f8c793519d837ca2f920c561535fe62ef32e8e5b",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/610f278171ed793b0d6c771f2877e5d4fd533d38",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/03345cd15fe15956bbc204131ac1b45991b99bb6",
-                "width": 160
-            }
-        ],
-        "name": "Ariana Grande",
-        "popularity": 97,
-        "type": "artist",
-        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
     }
 ]
